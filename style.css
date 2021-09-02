@@ -1,0 +1,37 @@
+.container{
+    position:relative;
+    max-width: 100%;
+    top: 7vh;
+    background: #fff;
+    padding: 30px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 3px 0px grey;
+}
+#amazonline p{
+   width: 100; 
+   text-align: center; 
+   border-bottom: 1px solid rgb(206, 206, 206); 
+   line-height: 0.1em;
+   margin: 10px 0 20px; 
+}
+#amazonline p span {
+    background:rgb(255, 255, 255); 
+    padding:0 10px;
+}
+#sign-in{
+    background-color: rgb(214, 214, 214);
+    background-repeat: repeat-x;
+    background-image: -o-repeating-linear-gradient(top, #f3dc9d, #ecc75f);
+    background-image: linear-gradient(#f3dc9d, #ecc75f);
+    border-color: rgb(122, 122, 122);
+    box-shadow: 0px 0px 2px 0px rgb(0, 0, 0);
+}
+
+#create-amazon{
+    background-color: rgb(214, 214, 214);
+    background-repeat: repeat-x;
+    background-image: -o-repeating-linear-gradient(top, #f3f4f6, #c7c7c7);
+    background-image: linear-gradient(#f3f4f6, #c7c7c7);
+    border-color: rgb(122, 122, 122);
+    box-shadow: 0px 0px 2px 0px rgb(0, 0, 0);
+}
